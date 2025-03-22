@@ -52,15 +52,15 @@
 <div id="home" class="h-screen w-full relative
 flex flex-col justify-center items-center bg-[#FFFFFF] overflow-hidden">
     
-    <div class="h-screen w-full absolute top-0 left-0 bg-transparent z-10">
+    <div class="h-screen w-full absolute top-0 left-0 bg-transparent lg:z-10">
         <div class="relative h-screen w-full">
-            <img class="shape-img absolute top-6 left-72 h-[280px] transform  scale-75 transition-all duration-1000 ease-out" src="shape_pyramid.avif" alt="">
-            <img class="shape-img absolute top-52 left-48 h-[280px] scale-75 transition-all duration-1000 ease-out" src="shape_sphere.avif" alt="">
-            <img class="shape-img absolute bottom-0 right-72 h-[280px] transform  scale-75 transition-all duration-1000 ease-out" src="shape_cylinder.avif" alt="">
+            <img class="shape-img absolute h-[20vh] top-20 left-1  lg:top-6 lg:left-72 lg:h-[280px] transform  scale-75 transition-all duration-1000 ease-out" src="shape_pyramid.avif" alt="">
+            <img class="shape-img absolute z-30 top-1/3 -left-6 lg:top-52 lg:left-48 h-[20vh] lg:h-[280px] scale-75 transition-all duration-1000 ease-out" src="shape_sphere.avif" alt="">
+            <img class="shape-img absolute bottom-4 left-0 lg:bottom-0 lg:left-72 h-[20vh] lg:h-[280px] scale-75 transition-all duration-1000 ease-out" src="shape_star.avif" alt="">
             
-            <img class="shape-img absolute top-6 right-72 h-[280px] scale-75 transition-all duration-1000 ease-out" src="shape_cuba.avif" alt="">
-            <img class="shape-img absolute top-56 right-48 h-[280px] scale-75 transition-all duration-1000 ease-out" src="shape_cube.avif" alt="">
-            <img class="shape-img absolute bottom-0 left-72 h-[280px] scale-75 transition-all duration-1000 ease-out" src="shape_star.avif" alt="">
+            <img class="shape-img absolute h-[20vh] top-20 right-1 lg:top-6 lg:right-72  lg:h-[280px] scale-75 transition-all duration-1000 ease-out" src="shape_cuba.avif" alt="">
+            <img class="shape-img absolute z-30 lg:z-0 top-[50%] -right-5 lg:top-56 lg:right-48 h-[26vh] lg:h-[280px] scale-75 transition-all duration-1000 ease-out" src="shape_cube.avif" alt="">
+            <img class="shape-img absolute bottom-12 right-0 lg:bottom-0 lg:right-72 h-[20vh] lg:h-[280px] transform  scale-75 transition-all duration-1000 ease-out" src="shape_cylinder.avif" alt="">
         </div>
     </div>
 

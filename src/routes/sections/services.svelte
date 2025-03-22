@@ -99,7 +99,7 @@
         <div class="md:hidden flex flex-col items-center">
             <!-- Mobile heading and number -->
             <div class="mb-4">
-                <p class="text-[#f2f2f2] text-6xl font-extrabold text-center">{no}</p>
+                <p class="text-[#f2f2f2]  text-6xl font-extrabold text-center">{no}</p>
                 <h2 class="text-center p-2 text-xl font-public font-bold">{title}</h2>
             </div>
             
@@ -112,7 +112,7 @@
             
             <!-- Caption for mobile/tablet -->
             <div class="max-w-2xl w-full">
-                <p class="text-[#4d4d4d] text-base sm:text-lg mb-4">{caption}</p>
+                <p class="text-[#4d4d4d] text-center text-base sm:text-lg mb-4">{caption}</p>
             </div>
         </div>
         

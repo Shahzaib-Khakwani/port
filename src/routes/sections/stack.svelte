@@ -107,7 +107,7 @@
 
 <div class="stackSection h-screen w-full absolute top-0 left-0 bg-transparent z-10">
   <div class="relative h-screen w-full">
-      <img class="stackCube w-3/4 absolute top-1/3 left-1/2 transform -translate-x-1/2 -translate-y-1/2 " 
+      <img class="stackCube w-3/4 absolute top-[10vh] lg:top-1/3 left-1/2 transform -translate-x-1/2 -translate-y-1/2 " 
       src="stack_cube.avif" 
       alt="">
   </div>

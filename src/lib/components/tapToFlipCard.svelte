@@ -4,8 +4,8 @@
   export let title = "Mail Chimp";
   export let description = "Team communication platform";
 
-  export let width = "w-32 sm:w-80 md:w-96";
-  export let height = "h-32 sm:h-80 md:h-96";
+  export let width = "w-56 sm:w-80 md:w-96";
+  export let height = "h-56 sm:h-80 md:h-96";
 </script>
 <div class="font-public">
   <label class={`block ${width} ${height} cursor-pointer`}>

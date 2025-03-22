@@ -7,7 +7,6 @@
 	import Projects from './sections/projects.svelte'
 	import Testimonials from './sections/testimonials.svelte'
 	import Contact from './sections/contact.svelte'
-	import Canvas from "./three/app.svelte"
 	import '../app.css';
 
 

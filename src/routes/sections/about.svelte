@@ -68,8 +68,8 @@
     
     <div class="h-screen w-full absolute top-0 left-0 bg-transparent z-10">
         <div class="relative h-screen w-full">
-            <img class="shape-img absolute top-2/5 left-48 h-[600px] transform  scale-75 transition-all duration-1000 ease-out" src="about_pyramid.avif" alt="">
-            <img class="shape-img absolute top-1/3 right-48 h-[600px] scale-75 transition-all duration-1000 ease-out" src="about_cube.avif" alt="">
+            <img class="shape-img absolute top-1/3 -left-32 lg:top-2/5 lg:left-48 lg:h-[600px] transform  scale-75 transition-all duration-1000 ease-out" src="about_pyramid.avif" alt="">
+            <img class="shape-img absolute top-1/2 -right-36  lg:top-1/3 lg:right-48 lg:h-[600px] scale-75 transition-all duration-1000 ease-out" src="about_cube.avif" alt="">
         </div>
     </div>
 
@@ -78,13 +78,13 @@
         About
     </h1>
     <div class="z-20 relative w-full md:h-[40%] flex flex-col items-center">
-        <div class="absolute left-1/2 transform -translate-x-1/2 w-full sm:w-11/12 md:w-4/5 max-w-2xl" bind:this={cardOneRef}>
+        <div class="absolute -top-1/3 left-1/2 transform -translate-x-1/2 w-full sm:w-11/12 md:w-4/5 max-w-2xl" bind:this={cardOneRef}>
             <Card text='My tech stack mirrors the vibrant diversity of the web itself. From the core languages of HTML5, CSS3, and JavaScript to an arsenal of design tools like Adobe Creative Suite and Sketch, I stay well-equipped. However, I believe in constantly pushing the boundaries, exploring emerging technologies and design trends to ensure my work remains both timeless and cutting-edge.'/>
         </div>
-        <div class="absolute left-1/2 transform -translate-x-1/2 w-full sm:w-11/12 md:w-4/5 max-w-2xl" bind:this={cardTwoRef}>
+        <div class="absolute -top-1/3 left-1/2 transform -translate-x-1/2 w-full sm:w-11/12 md:w-4/5 max-w-2xl" bind:this={cardTwoRef}>
             <Card text='My web design journey began with a solid foundation in design principles, meticulously honed through years of formal education. I hold a degree in Graphic Design from XYZ University, where I not only acquired technical expertise but also developed a profound appreciation for the beautiful union of aesthetics and functionality.'/>
         </div>
-        <div class="absolute left-1/2 transform -translate-x-1/2 w-full sm:w-11/12 md:w-4/5 max-w-2xl" bind:this={cardThirdRef}>
+        <div class="absolute -top-1/3 left-1/2 transform -translate-x-1/2 w-full sm:w-11/12 md:w-4/5 max-w-2xl" bind:this={cardThirdRef}>
             <Card text="Greetings! I'm Larry, and I navigate the exciting world of web design, where every pixel serves a purpose. Combining a deep understanding of user experience with a knack for transforming ideas into visually stunning interfaces, I approach each project with a burning passion to craft something truly remarkable."/>
         </div>
         
