@@ -19,6 +19,11 @@
 	"dependencies": {
 		"@tailwindcss/container-queries": "^0.1.1",
 		"@tailwindcss/forms": "^0.5.9",
-		"@tailwindcss/typography": "^0.5.15"
+		"@tailwindcss/typography": "^0.5.15",
+		"@threlte/core": "^8.0.1",
+		"@threlte/extras": "^9.1.0",
+		"gsap": "^3.12.7",
+		"siema": "^1.5.1",
+		"three": "^0.174.0"
 	}
 }
