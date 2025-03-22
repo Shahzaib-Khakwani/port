@@ -8,7 +8,10 @@ const config = {
 	},
 	paths: {
 		base: process.env.NODE_ENV === 'production' ? '/port' : ''
-	  }
+	},
+	prerender: {
+		default: true
+	}
 };
 
 export default config;
