@@ -30,9 +30,14 @@
         Kind Words From Clients
     </h1>
     <Carousel  perPage={1} autoplay="2000">
-        {@render Card('test_person.avif', "Sarah Jones", "Manager", "My tech stack mirrors the vibrant diversity of the web itself. From the core languages of HTML5, CSS3, and JavaScript to an arsenal of design tools like Adobe Creative Suite and Sketch, I stay well-equipped. However, I believe in constantly pushing the boundaries, exploring emerging technologies and design trends to ensure my work remains both timeless and cutting-edg")}
-        {@render Card('text_person2.avif', "Sarah Jones", "Manager", "My tech stack mirrors the vibrant diversity of the web itself. From the core languages of HTML5, CSS3, and JavaScript to an arsenal of design tools like Adobe Creative Suite and Sketch, I stay well-equipped. However, I believe in constantly pushing the boundaries, exploring emerging technologies and design trends to ensure my work remains both timeless and cutting-edg")}
-        {@render Card('test_person2.avif', "Sarah Jones", "Manager", "My tech stack mirrors the vibrant diversity of the web itself. From the core languages of HTML5, CSS3, and JavaScript to an arsenal of design tools like Adobe Creative Suite and Sketch, I stay well-equipped. However, I believe in constantly pushing the boundaries, exploring emerging technologies and design trends to ensure my work remains both timeless and cutting-edg")}
+        {@render Card('test_person2.avif', "Aun Haider", "Manager", "A social media app built with Django and PostgreSQL, containerized with Docker. Redis powers caching and Celery handles background tasks, with Celery Beat for scheduling. Kafka enables real-time event streaming for scalability.")}
+
+
+
+        {@render Card('test_person2.avif', "Hassan Ali Sajid", "Manager", "The frontend website for the robotics company is designed to showcase its innovations, products, and services. Built for performance and user experience, it features an intuitive interface, interactive elements, and a modern design. The site highlights the company's expertise in robotics, providing detailed insights into its technology, applications, and industry impact.")}
+
+
+        {@render Card('test_person2.avif', "Shehryar", "Manager", "A social media app with a Flutter frontend and a Django-PostgreSQL backend, containerized with Docker. Redis handles caching, Celery manages background tasks, and Kafka enables real-time event streaming. The app also includes a carpooling feature.")}
 
     </Carousel>
     

@@ -118,9 +118,12 @@
             Projects
         </h1>
     </div>
-    <div class="projectBox w-full h-full flex flex-col items-center justify-center my-4">{@render ProjectCard("Specialised Web App","https://framerusercontent.com/images/HowmrQKMjv4J2RQAp5h9XISrO0E.jpg?scale-down-to=1024")}</div>
-    <div class="projectBox w-full h-full flex flex-col items-center justify-center my-4">{@render ProjectCard("Specialised Web App","https://framerusercontent.com/images/HowmrQKMjv4J2RQAp5h9XISrO0E.jpg?scale-down-to=1024")}</div>
-    <div class="projectBox w-full h-full flex flex-col items-center justify-center my-4">{@render ProjectCard("Specialised Web App","https://framerusercontent.com/images/HowmrQKMjv4J2RQAp5h9XISrO0E.jpg?scale-down-to=1024")}</div>
-    <div class="projectBox w-full h-full flex flex-col items-center justify-center my-4">{@render ProjectCard("Specialised Web App","https://framerusercontent.com/images/HowmrQKMjv4J2RQAp5h9XISrO0E.jpg?scale-down-to=1024")}</div>
+    <div class="projectBox w-full h-full flex flex-col items-center justify-center my-4">{@render ProjectCard("PhotoGraphy Portfolio","designer.png")}</div>
+
+    <div class="projectBox w-full h-full flex flex-col items-center justify-center my-4">{@render ProjectCard("Scalable Ecommerce Web App","eco.png")}</div>
+    
+    <div class="projectBox w-full h-full flex flex-col items-center justify-center my-4">{@render ProjectCard("Developer Portfolio","port1.png")}</div>
+    
+    <div class="projectBox w-full h-full flex flex-col items-center justify-center my-4">{@render ProjectCard("Specialised Course CMS","cms.png")}</div>
     
   </div>

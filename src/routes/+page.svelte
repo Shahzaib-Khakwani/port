@@ -100,7 +100,7 @@ flex flex-col justify-center items-center bg-[#FFFFFF] overflow-hidden">
                 <!-- Front of card -->
                 <div class="absolute bg-[#6670FF] [backface-visibility:hidden] rounded-[3vw] h-full w-full overflow-hidden transform ">
                     <div class="h-full w-full flex items-center justify-center text-white text-2xl">
-                        <img src="person.avif" class="absolute top-[10px] object-contain">
+                        <img src="shani.png" class="absolute top-[10px] object-contain">
                     </div>
                 </div>
                 

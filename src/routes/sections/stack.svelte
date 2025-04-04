@@ -123,18 +123,22 @@
         </h1>
     </div>
 
-    <div  class="z-20 stackBox transform-gpu transition-transform"><Card/></div>
-    <div  class="z-20 stackBox transform-gpu transition-transform"><Card logo="notion.png" title='Notion'/></div>
-    <div  class="z-20 stackBox transform-gpu transition-transform"><Card logo="framer.png" title='Framer'/></div>
-    <div  class="z-20 stackBox transform-gpu transition-transform"><Card logo="figma.png" title='Figma'/></div>
-    <div  class="z-20 stackBox transform-gpu transition-transform"><Card logo="framer.png" title='Framer'/></div>
-    <div  class="z-20 stackBox transform-gpu transition-transform"><Card logo="figma.png" title='Figma'/></div>
-    <div  class="z-20 stackBox transform-gpu transition-transform"><Card/></div>
-    <div  class="z-20 stackBox transform-gpu transition-transform"><Card logo="notion.png" title='Notion'/></div>
-    <div  class="z-20 stackBox transform-gpu transition-transform"><Card logo="framer.png" title='Framer'/></div>
-    <div  class="z-20 stackBox transform-gpu transition-transform"><Card logo="figma.png" title='Figma'/></div>
-    <div  class="z-20 stackBox transform-gpu transition-transform"><Card logo="framer.png" title='Framer'/></div>
-    <div  class="z-20 stackBox transform-gpu transition-transform"><Card logo="figma.png" title='Figma'/></div>
+    <div  class="z-20 stackBox transform-gpu transition-transform"><Card logo="django.png" title='Django'/></div>
+    <div  class="z-20 stackBox transform-gpu transition-transform"><Card logo="Svelte.png" title='Svelte'/></div>
+    <div  class="z-20 stackBox transform-gpu transition-transform"><Card logo="compose.png" title='Docker'/></div>
+    <div  class="z-20 stackBox transform-gpu transition-transform"><Card logo="Celery.png" title='Celery'/></div>
+    <div  class="z-20 stackBox transform-gpu transition-transform"><Card logo="node.png" title='Node'/></div>
+    <div  class="z-20 stackBox transform-gpu transition-transform"><Card logo='postgres.png' title='PostgreSql'/></div>
+    <div  class="z-20 stackBox transform-gpu transition-transform"><Card logo="redis.png" title='Redis'/></div>
+    <div  class="z-20 stackBox transform-gpu transition-transform"><Card logo="Sanity.png" title='Sanity'/></div>
+    <div  class="z-20 stackBox transform-gpu transition-transform"><Card logo="gsap.png" title='Gsap'/></div>
+    <div  class="z-20 stackBox transform-gpu transition-transform"><Card logo="Python.png" title='Flask'/></div>
+    <div  class="z-20 stackBox transform-gpu transition-transform"><Card logo="Pandas.png" title='Pandas'/></div>
+    <div  class="z-20 stackBox transform-gpu transition-transform"><Card logo="Anaconda.png" title='Anaconda'/></div>
+    <div  class="z-20 stackBox transform-gpu transition-transform"><Card logo="Flask.png" title='Flask'/></div>
+    <div  class="z-20 stackBox transform-gpu transition-transform"><Card logo="NumPy.png" title='Numpy'/></div>
+    <div  class="z-20 stackBox transform-gpu transition-transform"><Card logo="TensorFlow.png" title='Tensorflow'/></div>
+
 
 </div>
 </div>

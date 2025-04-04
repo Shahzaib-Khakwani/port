@@ -79,14 +79,17 @@
     </h1>
     <div class="z-20 relative w-full md:h-[40%] flex flex-col items-center">
         <div class="absolute -top-1/3 left-1/2 transform -translate-x-1/2 w-full sm:w-11/12 md:w-4/5 max-w-2xl" bind:this={cardOneRef}>
-            <Card text='My tech stack mirrors the vibrant diversity of the web itself. From the core languages of HTML5, CSS3, and JavaScript to an arsenal of design tools like Adobe Creative Suite and Sketch, I stay well-equipped. However, I believe in constantly pushing the boundaries, exploring emerging technologies and design trends to ensure my work remains both timeless and cutting-edge.'/>
+            <Card text='Proficient Django developer with mid-level expertise
+Full-stack developer with specialization in SvelteKit development as well as Django implementation
+The developer completed the development of web applications which included e-commerce functionality along with chat capabilities and blogging features.'/>
         </div>
         <div class="absolute -top-1/3 left-1/2 transform -translate-x-1/2 w-full sm:w-11/12 md:w-4/5 max-w-2xl" bind:this={cardTwoRef}>
-            <Card text='My web design journey began with a solid foundation in design principles, meticulously honed through years of formal education. I hold a degree in Graphic Design from XYZ University, where I not only acquired technical expertise but also developed a profound appreciation for the beautiful union of aesthetics and functionality.'/>
+            <Card text='Skilled in front-end technologies: GSAP, Tailwind CSS, dynamic interfaces
+Grads of Coursera gained certification in Django Development and Advanced CNNs with TensorFlow.
+The development of durable and scalable web solutions is among my professional capabilities.
+Strong focus on delivering high-quality, value-driven project outcomes.'/>
         </div>
-        <div class="absolute -top-1/3 left-1/2 transform -translate-x-1/2 w-full sm:w-11/12 md:w-4/5 max-w-2xl" bind:this={cardThirdRef}>
-            <Card text="Greetings! I'm Larry, and I navigate the exciting world of web design, where every pixel serves a purpose. Combining a deep understanding of user experience with a knack for transforming ideas into visually stunning interfaces, I approach each project with a burning passion to craft something truly remarkable."/>
-        </div>
+        
         
     </div>
     <div bind:this={buttonRef} class="z-20 absolute left-1/2 bottom-[5%] lg:-bottom-[3%] mt-4  transform -translate-x-1/2">
